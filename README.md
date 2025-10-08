@@ -18,7 +18,7 @@ Clean and intuitive user interface with Avalonia UI.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/TodoListApp.git
+git clone https://github.com/pandi26/TodoListApp.git
 
 
 Open the solution in Visual Studio 2022 or Rider.
